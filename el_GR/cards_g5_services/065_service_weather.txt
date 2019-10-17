@@ -1,0 +1,3 @@
+weather
+
+Data from a weather forecast service, for example temperature, rain probability, UV index, etc.
