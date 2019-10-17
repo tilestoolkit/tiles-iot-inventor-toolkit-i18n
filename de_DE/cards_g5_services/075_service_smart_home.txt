@@ -1,0 +1,3 @@
+smart home
+
+A service allowing to retrieve sensor data and control the components of a smart home.
