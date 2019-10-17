@@ -1,0 +1,3 @@
+scenarios
+
+Problems and challenges that your IoT idea is addressing.
