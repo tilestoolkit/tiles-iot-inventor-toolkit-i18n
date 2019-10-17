@@ -1,0 +1,3 @@
+sensors
+
+Sensors that connect to a thing to register data from its surroundings.
