@@ -1,0 +1,3 @@
+medication
+
+An object related to personal medication, for example a pill bottle, medicine cabinet, etc.
