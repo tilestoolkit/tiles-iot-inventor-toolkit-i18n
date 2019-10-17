@@ -1,0 +1,3 @@
+public webcam
+
+A video feed from a public camera or surveillance camera.
