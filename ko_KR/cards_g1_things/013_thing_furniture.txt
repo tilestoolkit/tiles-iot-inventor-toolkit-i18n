@@ -1,0 +1,3 @@
+furniture
+
+A piece of furniture in the home, for example a chair, a table or a sofa.
