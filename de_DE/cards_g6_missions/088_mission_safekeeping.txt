@@ -1,0 +1,9 @@
+safekeeping
+
+goal
+
+Create an idea that protects the user or something that is valuable to the user.
+
+example
+
+A bike that alerts you when it has moved while you are not around.
