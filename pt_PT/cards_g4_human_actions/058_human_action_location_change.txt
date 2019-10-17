@@ -1,0 +1,3 @@
+location change
+
+The user moves the object to a specific location, or away from it.

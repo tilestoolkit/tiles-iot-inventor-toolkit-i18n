@@ -1,0 +1,3 @@
+shower
+
+A shower, a sink or a bathtub.

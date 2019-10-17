@@ -1,0 +1,3 @@
+timeline
+
+The object provides a visualization of data over time.

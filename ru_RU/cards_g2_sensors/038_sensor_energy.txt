@@ -1,0 +1,3 @@
+energy
+
+Energy usage of the object.

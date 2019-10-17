@@ -1,0 +1,3 @@
+public bin
+
+A public bin for waste or recycling.

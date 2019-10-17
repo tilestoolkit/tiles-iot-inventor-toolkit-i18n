@@ -1,0 +1,3 @@
+shapeshift
+
+The object changes its shape in some way.

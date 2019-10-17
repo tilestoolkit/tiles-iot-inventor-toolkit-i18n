@@ -1,0 +1,3 @@
+car
+
+A vehicle that is privately owned.

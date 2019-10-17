@@ -1,0 +1,3 @@
+sound
+
+The object emits a sound.

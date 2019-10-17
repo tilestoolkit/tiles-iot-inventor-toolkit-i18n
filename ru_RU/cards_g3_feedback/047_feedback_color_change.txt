@@ -1,0 +1,3 @@
+color change
+
+A light on the object changes or fades from one color to another.

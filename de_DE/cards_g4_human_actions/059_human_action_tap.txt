@@ -1,0 +1,3 @@
+tap
+
+The user taps the object, either with a single or double tap.

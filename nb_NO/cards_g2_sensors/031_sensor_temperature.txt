@@ -1,0 +1,3 @@
+temperature
+
+Temperature of the object or the ambient in its surroundings.

@@ -1,0 +1,9 @@
+time-saver
+
+goal
+
+Create an idea that simplifies or automates a task that people normally spend time doing against their wishes.
+
+example
+
+A washing machine that orders new detergent when it senses it is running low.

@@ -1,0 +1,3 @@
+calendar and time
+
+A service connecting to your calendar, allowing to schedule appointments or check availability.

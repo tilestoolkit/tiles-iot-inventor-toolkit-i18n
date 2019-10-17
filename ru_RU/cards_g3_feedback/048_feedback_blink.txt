@@ -1,0 +1,3 @@
+blink
+
+A point of light on the object starts blinking.

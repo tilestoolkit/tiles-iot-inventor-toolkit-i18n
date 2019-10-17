@@ -1,0 +1,3 @@
+air pollution
+
+Pollution of the air surrounding the object.

@@ -1,0 +1,3 @@
+things
+
+Physical objects to be augmented with technology and interactivity.

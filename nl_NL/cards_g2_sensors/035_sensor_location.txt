@@ -1,0 +1,3 @@
+location
+
+Latitude and longitude coordinates of the object.

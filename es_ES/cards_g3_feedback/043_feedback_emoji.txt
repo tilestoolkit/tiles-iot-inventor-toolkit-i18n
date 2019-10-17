@@ -1,0 +1,3 @@
+emoji
+
+The object displays some kind of emotional response.

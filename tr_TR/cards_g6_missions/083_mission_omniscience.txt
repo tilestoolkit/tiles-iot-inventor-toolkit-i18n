@@ -1,0 +1,9 @@
+omniscience
+
+goal
+
+Create an idea that provides the user with knowledge, or with access to information.
+
+example
+
+An earring that can translate foreign languages spoken around you to your native tongue.

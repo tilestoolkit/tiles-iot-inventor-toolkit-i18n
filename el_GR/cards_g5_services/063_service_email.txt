@@ -1,0 +1,3 @@
+email
+
+A service that allows to send and receive emails.

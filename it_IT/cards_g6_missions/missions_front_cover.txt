@@ -1,0 +1,3 @@
+missions
+
+The purpose, value or utility that your IoT idea provides to people.

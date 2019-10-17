@@ -1,0 +1,3 @@
+rotate
+
+The user rotates the object along one of the three axes.

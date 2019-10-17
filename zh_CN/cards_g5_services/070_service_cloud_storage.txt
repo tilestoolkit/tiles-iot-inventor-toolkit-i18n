@@ -1,0 +1,3 @@
+cloud storage
+
+A database or generic online document-based storage service.
