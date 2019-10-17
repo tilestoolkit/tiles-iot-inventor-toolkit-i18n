@@ -1,0 +1,3 @@
+plant
+
+A household plant, flower or its planter.
