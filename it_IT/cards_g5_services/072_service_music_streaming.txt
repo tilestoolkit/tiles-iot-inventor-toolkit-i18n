@@ -1,0 +1,3 @@
+music streaming
+
+A service to control or notify music playback of a speaker or other sound devices.
