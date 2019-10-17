@@ -1,0 +1,3 @@
+humidity
+
+Air humidity of the ambient where the object is placed.
