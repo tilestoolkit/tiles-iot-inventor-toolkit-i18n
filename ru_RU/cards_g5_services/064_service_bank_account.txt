@@ -1,0 +1,3 @@
+bank account
+
+A service allowing to update or retrieve data from an online banking account.
