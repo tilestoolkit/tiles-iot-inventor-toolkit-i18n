@@ -1,0 +1,9 @@
+habit changing
+
+goal
+
+Create an idea that helps a user to form or change a long-term habit. The usefulness decreases over time as the habit is established.
+
+example
+
+Shoelaces that glow brighter or darker according with the number of steps taken during the day.
