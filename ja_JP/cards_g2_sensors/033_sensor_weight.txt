@@ -1,0 +1,3 @@
+weight
+
+Weight or change of weight of the object.
