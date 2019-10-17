@@ -1,0 +1,3 @@
+lift
+
+The user lifts the object from a static surface.
