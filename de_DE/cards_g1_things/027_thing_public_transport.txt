@@ -1,0 +1,3 @@
+public transport
+
+A bus, train or tram part of public transport, including parts such as doors, seats, or the bus stop.
