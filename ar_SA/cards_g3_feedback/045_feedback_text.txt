@@ -1,0 +1,3 @@
+text
+
+The object displays a short text message to the user.
