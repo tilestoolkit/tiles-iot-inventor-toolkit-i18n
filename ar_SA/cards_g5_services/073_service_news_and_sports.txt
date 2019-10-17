@@ -1,0 +1,3 @@
+news and sports
+
+Data from news providers or sport results.
