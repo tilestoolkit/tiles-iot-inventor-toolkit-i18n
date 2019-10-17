@@ -1,0 +1,3 @@
+motion
+
+Movement of humans or animals detected in the proximity of the object.
