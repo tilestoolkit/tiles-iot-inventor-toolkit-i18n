@@ -1,0 +1,3 @@
+criteria
+
+Reflection criteria to help evaluate your IoT idea.
