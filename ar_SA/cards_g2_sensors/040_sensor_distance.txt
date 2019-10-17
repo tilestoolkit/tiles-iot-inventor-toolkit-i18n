@@ -1,0 +1,3 @@
+distance
+
+Distance measured from the object to an external obstacle.
