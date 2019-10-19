@@ -1,3 +1,3 @@
-jewelry
+smykke
 
 A piece of jewelry, for example a ring, an armlet or a necklace.
