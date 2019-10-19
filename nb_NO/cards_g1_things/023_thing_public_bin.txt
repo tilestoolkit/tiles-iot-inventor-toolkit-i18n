@@ -1,3 +1,3 @@
 offentlig søppelkasse
 
-A public bin for waste or recycling.
+En offentlig søppelkasse for søppel eller resirkulerbart materiale.
