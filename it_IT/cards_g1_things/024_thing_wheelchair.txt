@@ -1,3 +1,3 @@
-wheelchair
+sedia a rotelle
 
 A wheelchair to be used by people with limited mobility.
