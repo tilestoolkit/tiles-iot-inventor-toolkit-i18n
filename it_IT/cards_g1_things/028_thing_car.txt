@@ -1,3 +1,3 @@
-car
+auto
 
-A vehicle that is privately owned.
+Un veicolo privato.
