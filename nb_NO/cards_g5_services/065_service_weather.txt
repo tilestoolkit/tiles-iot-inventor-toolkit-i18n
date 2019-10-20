@@ -1,3 +1,3 @@
 vær
 
-Data from a weather forecast service, for example temperature, rain probability, UV index, etc.
+Data fra værmelding, for eksempel temperatur, sannsynlighet for regn, UV-strålingsindeks, osv.
