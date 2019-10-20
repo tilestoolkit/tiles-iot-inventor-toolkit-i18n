@@ -1,3 +1,3 @@
-boat
+barca
 
 A sailboat, motorboat or other forms of transportation over water.
