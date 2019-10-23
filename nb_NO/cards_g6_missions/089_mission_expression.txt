@@ -4,6 +4,6 @@ goal
 
 Create an idea that allows new ways to express yourself creatively or emotionally.
 
-example
+eksempel
 
 Stairs that turn into piano keys when someone steps on them.
