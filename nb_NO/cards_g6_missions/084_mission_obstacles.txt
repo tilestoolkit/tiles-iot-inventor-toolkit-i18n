@@ -4,6 +4,6 @@ goal
 
 Create an idea where a task is intentionally made harder to discourage bad habits or create additional challenges.
 
-example
+eksempel
 
 An alarm clock that moves around the room forcing the users to chase it if they are oversleeping.
