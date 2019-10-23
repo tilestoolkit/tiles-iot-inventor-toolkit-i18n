@@ -4,6 +4,6 @@ goal
 
 Create an idea that helps to facilitate some kind of interaction between people.
 
-example
+eksempel
 
 A pin for breaking the ice at a party that lights up when you are near your table companion.
