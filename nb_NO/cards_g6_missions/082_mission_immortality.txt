@@ -4,6 +4,6 @@ goal
 
 Create an idea that can help the user save something for posterity, or perhaps that is able to give health benefits to the user.
 
-example
+eksempel
 
 A mirror that takes a picture of you every day to keep a memory of that day in your life.
