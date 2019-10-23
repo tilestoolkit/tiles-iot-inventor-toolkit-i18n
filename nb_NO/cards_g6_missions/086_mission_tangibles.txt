@@ -4,6 +4,6 @@ goal
 
 Create an idea where the object itself solves a task where you would normally have had to use a screen.
 
-example
+eksempel
 
 An umbrella that lights up when there is rain on the forecast for the day.
