@@ -4,6 +4,6 @@ goal
 
 Create and idea that makes you feel like being in multiple places at once, or that let you experience some aspects of a different place.
 
-example
+eksempel
 
 An alarm clock that every morning wakes you up with sounds and lights from different places in the world.
