@@ -4,6 +4,6 @@ goal
 
 Create an idea where the objects are so pleasant or playful to use that people will want to spend time with, regardless of what else it does.
 
-example
+eksempel
 
 A piggy bank that starts smiling and grunting when you give it money.
