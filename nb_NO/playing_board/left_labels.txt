@@ -1,6 +1,6 @@
 triggers
 
-things
+ting
 
 responses
 
