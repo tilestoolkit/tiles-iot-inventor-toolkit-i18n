@@ -1,6 +1,6 @@
 tangibles
 
-goal
+mål
 
 Create an idea where the object itself solves a task where you would normally have had to use a screen.
 
