@@ -1,6 +1,6 @@
 time-saver
 
-goal
+mål
 
 Create an idea that simplifies or automates a task that people normally spend time doing against their wishes.
 
