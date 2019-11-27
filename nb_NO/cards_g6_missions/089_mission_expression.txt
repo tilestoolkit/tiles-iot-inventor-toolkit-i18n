@@ -1,6 +1,6 @@
 expression
 
-goal
+mål
 
 Create an idea that allows new ways to express yourself creatively or emotionally.
 
