@@ -1,9 +1,9 @@
-trojan horse
+trojansk hest
 
-goal
+mål
 
-Create an idea that seemingly does one thing, but where the intention is to produce another, deeper effect.
+Lag en idé som tilsynelatende gjør en ting, men hvor intensjonen er å gi en annen, underliggende effekt.
 
 eksempel
 
-A coffee cup that changes color when you have a scheduled appointment.
+En kaffekopp som skifter farge når du har en avtale.
