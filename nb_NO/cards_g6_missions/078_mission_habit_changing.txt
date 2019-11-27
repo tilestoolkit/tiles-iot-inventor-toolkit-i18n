@@ -1,6 +1,6 @@
 habit changing
 
-goal
+mål
 
 Create an idea that helps a user to form or change a long-term habit. The usefulness decreases over time as the habit is established.
 
