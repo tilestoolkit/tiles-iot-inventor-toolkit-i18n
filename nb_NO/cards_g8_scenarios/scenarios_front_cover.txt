@@ -1,3 +1,3 @@
-scenarios
+scenario
 
-Problems and challenges that your IoT idea is addressing.
+Problemer og utfordringer som kan løses ved hjelp av IoT-teknologi.
