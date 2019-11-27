@@ -1,6 +1,6 @@
 omniscience
 
-goal
+mål
 
 Create an idea that provides the user with knowledge, or with access to information.
 
