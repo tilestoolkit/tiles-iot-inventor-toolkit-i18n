@@ -1,9 +1,9 @@
-tangibles
+håndgripelige objekter
 
 mål
 
-Create an idea where the object itself solves a task where you would normally have had to use a screen.
+Lag en idé der objektet selv løser en oppgave du normalt ville benyttet en skjerm til.
 
 eksempel
 
-An umbrella that lights up when there is rain on the forecast for the day.
+En paraply som lyser når det meldes om regn.
