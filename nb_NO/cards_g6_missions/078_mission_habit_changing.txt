@@ -1,9 +1,9 @@
-habit changing
+endre vaner
 
 mål
 
-Create an idea that helps a user to form or change a long-term habit. The usefulness decreases over time as the habit is established.
+Lag en idé som hjelper brukeren til å danne eller endre en langsiktig vane. Anvendbarheten avtar over tid når vanen er etablert.
 
 eksempel
 
-Shoelaces that glow brighter or darker according with the number of steps taken during the day.
+Skolisser som lyser sterkere eller svakere, etter hvor mange skritt brukeren har tatt.
