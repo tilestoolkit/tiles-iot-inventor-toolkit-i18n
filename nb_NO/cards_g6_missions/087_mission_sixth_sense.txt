@@ -1,6 +1,6 @@
 sixth sense
 
-goal
+mål
 
 Create an idea that gives the user some kind of superpower, like new types of senses, perceiving new information, etc.
 
