@@ -1,6 +1,6 @@
 safekeeping
 
-goal
+mål
 
 Create an idea that protects the user or something that is valuable to the user.
 
