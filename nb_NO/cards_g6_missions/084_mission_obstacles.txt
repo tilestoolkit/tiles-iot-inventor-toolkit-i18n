@@ -1,6 +1,6 @@
 obstacles
 
-goal
+mål
 
 Create an idea where a task is intentionally made harder to discourage bad habits or create additional challenges.
 
