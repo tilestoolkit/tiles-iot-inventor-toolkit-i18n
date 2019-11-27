@@ -1,9 +1,9 @@
-time-saver
+tidsbesparer
 
 mål
 
-Create an idea that simplifies or automates a task that people normally spend time doing against their wishes.
+Lag en idé som forenkler eller automatiserer en oppgave som folk vanligvis motvillig bruker tid på.
 
 eksempel
 
-A washing machine that orders new detergent when it senses it is running low.
+En vaskemaskin som bestiller vaskemiddel når den merker at det begynner å gå tomt.
