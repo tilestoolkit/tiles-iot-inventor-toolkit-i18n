@@ -1,9 +1,9 @@
-utility
+nytteverdi
 
 hva
 
-How useful and practical are the ideas.
+Hvor nyttige og praktiske er ideene.
 
 hvordan bedømme
 
-Does the idea solve a real problem for its users? Can you imagine it being used every day?
+Løser ideen et reelt problem for brukerne? Can you imagine it being used every day?
