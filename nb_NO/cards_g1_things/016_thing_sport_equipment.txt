@@ -1,3 +1,3 @@
 sportsutstyr
 
-En fotball, en tennisracket eller en annen del av sportsutstyr.
+En fotball, en tennisracket eller en annen type sportsutstyr.
