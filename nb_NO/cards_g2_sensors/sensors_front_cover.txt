@@ -1,3 +1,3 @@
-sensors
+sensorer
 
-Sensors that connect to a thing to register data from its surroundings.
+Sensorer koblet til objektet for å registrere data fra omgivelsene.
