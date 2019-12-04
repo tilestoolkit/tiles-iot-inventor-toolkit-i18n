@@ -1,3 +1,3 @@
-motion
+bevegelse
 
 The object moves in response to a trigger.
