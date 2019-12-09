@@ -1,3 +1,3 @@
 løfte
 
-The user lifts the object from a static surface.
+Brukeren løfter objektet fra en statisk overflate.
