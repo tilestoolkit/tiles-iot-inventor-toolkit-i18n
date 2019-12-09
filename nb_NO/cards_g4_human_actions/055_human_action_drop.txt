@@ -1,3 +1,3 @@
-drop
+miste
 
-The user drops the object to the ground.
+Brukeren mister objektet i bakken.
