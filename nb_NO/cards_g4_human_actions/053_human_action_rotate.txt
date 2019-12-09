@@ -1,3 +1,3 @@
 rotere
 
-The user rotates the object along one of the three axes.
+Brukeren roterer objektet langs en av de tre aksene.
