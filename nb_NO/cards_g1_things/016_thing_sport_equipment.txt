@@ -1,3 +1,3 @@
-sport equipment
+sportsutstyr
 
-A football, a tennis racket or another piece of sporting equipment.
+En fotball, en tennisracket eller en annen type sportsutstyr.

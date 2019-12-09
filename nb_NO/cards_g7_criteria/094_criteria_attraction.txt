@@ -1,9 +1,9 @@
-attraction
+tiltrekningskraft
 
-what
+hva
 
-The attractiveness of the idea, as in products that the user is proud to own.
+I hvor stor grad vil ideen eller produktet trekke til seg brukere.
 
-how to judge
+hvordan bedømme
 
-Would you like to have the product for yourself? Do you think the target audience would like it as well?
+Har du lyst til å eie produktet selv? Tror du målgruppen vil ønske å eie produktet?

@@ -1,9 +1,9 @@
-omniscience
+allvitenhet
 
-goal
+mål
 
-Create an idea that provides the user with knowledge, or with access to information.
+Lag en idé som gir brukeren kunnskap, eller tilgang til informasjon.
 
-example
+eksempel
 
-An earring that can translate foreign languages spoken around you to your native tongue.
+En ørering som direkteoversetter fremmedspråk som snakkes rundt deg.

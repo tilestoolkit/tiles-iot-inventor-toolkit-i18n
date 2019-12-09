@@ -1,3 +1,3 @@
-piggy bank
+salvadanaio
 
 A piggy bank or similar objects that are used to save money.

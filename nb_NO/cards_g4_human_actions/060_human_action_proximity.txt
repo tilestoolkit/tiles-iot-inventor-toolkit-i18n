@@ -1,3 +1,3 @@
-proximity
+avstand
 
-The user moves near the object without actually touching it.
+Brukeren nærmer seg objektet uten å røre det.

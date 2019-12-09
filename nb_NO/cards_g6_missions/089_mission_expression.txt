@@ -1,9 +1,9 @@
-expression
+uttrykk
 
-goal
+mål
 
-Create an idea that allows new ways to express yourself creatively or emotionally.
+Lag en idé som åpner for nye måter å uttrykke seg kreativt eller følelsesmessig på.
 
-example
+eksempel
 
-Stairs that turn into piano keys when someone steps on them.
+En trapp som fungerer som et piano når noen går i den.

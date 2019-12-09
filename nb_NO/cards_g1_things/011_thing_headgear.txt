@@ -1,3 +1,3 @@
-headgear
+hodeplagg
 
-A piece of headgear, for example a cap, a beanie or a helmet.
+Hodeplagg, for eksempel caps, lue eller hjelm.

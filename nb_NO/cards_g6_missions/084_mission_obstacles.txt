@@ -1,9 +1,9 @@
-obstacles
+hindringer
 
-goal
+mål
 
-Create an idea where a task is intentionally made harder to discourage bad habits or create additional challenges.
+Lag en idé der en oppgave med vilje blir vanskeligere for å skape tilleggsutfordringer eller forhindre dårlige vaner.
 
-example
+eksempel
 
-An alarm clock that moves around the room forcing the users to chase it if they are oversleeping.
+En vekkerklokke som beveger seg rundt i rommet og tvinger brukerne til å jage den om de forsover seg.

@@ -1,3 +1,3 @@
-bike
+sykkel
 
-A bicycle, a part of it, or some other object used in conjunction, for example a helmet or a lock.
+En sykkel, en del av den eller et annet tilhørende objekt, for eksempel en hjelm eller en lås.

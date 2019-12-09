@@ -1,9 +1,9 @@
-feasibility
+gjennomførbarhet
 
-what
+hva
 
-Ideas that solve the problem in a plausible manner and seem realistic to develop.
+Ideer som realistisk kan løse problemet, og som vil kunne utvikles.
 
-how to judge
+hvordan bedømme
 
-Would you invest your savings in the development of the product idea? Do you know about similar products being successful?
+Ville du investert sparepengene dine i produktutviklingen? Vet du om lignende produkter som har lyktes?

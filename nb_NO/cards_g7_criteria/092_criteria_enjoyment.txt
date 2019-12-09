@@ -1,9 +1,9 @@
-enjoyment
+underholdningsfaktor
 
-what
+hva
 
-How fun or enjoyable are the ideas for their users.
+Hvor underholdende er ideen for sluttbrukeren.
 
-how to judge
+hvordan bedømme
 
-Would you like to spend time with the product, even if you don’t really need it? Is it something you would tell your friends about?
+Selv om du ikke strengt tatt har behov for produktet, vil du likevel synes det er er morsomt å bruke tid på det? Vil du fortelle vennene dine om det?

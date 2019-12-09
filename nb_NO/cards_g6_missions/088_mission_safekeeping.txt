@@ -1,9 +1,9 @@
-safekeeping
+forvaring
 
-goal
+mål
 
-Create an idea that protects the user or something that is valuable to the user.
+Lag en idé som beskytter brukeren eller noe som er verdifullt for brukeren.
 
-example
+eksempel
 
-A bike that alerts you when it has moved while you are not around.
+En sykkel som varsler om den blir flyttet uten at du er i nærheten.

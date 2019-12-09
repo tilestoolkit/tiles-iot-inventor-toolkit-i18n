@@ -1,9 +1,9 @@
-sixth sense
+sjette sans
 
-goal
+mål
 
-Create an idea that gives the user some kind of superpower, like new types of senses, perceiving new information, etc.
+Lag en idé som gir brukeren en slags superkraft, som nye typer sanser, måter å oppfatte informasjon på, osv.
 
-example
+eksempel
 
-A necklace that changes color based on the air quality of your surroundings.
+Et halskjede som endrer farge basert på luftkvaliteten rundt deg.
