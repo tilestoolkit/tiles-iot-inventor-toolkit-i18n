@@ -1,3 +1,3 @@
-location change
+plasseringsendring
 
-The user moves the object to a specific location, or away from it.
+Brukeren flytter objektet til et spesifikt sted eller bort fra det.
