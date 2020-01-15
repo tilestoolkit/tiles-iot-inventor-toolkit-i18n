@@ -1,3 +1,3 @@
 Hvordan reagerer objektet når det trigges?
 
-Reaksjoner lar objektet gi tilbakemelding til brukeren når det trigges, enten ved direkte feedback eller ved å sende data til en tjeneste eller app. Legg kortene dere har valgt på angitt sted på brettet.
+Reaksjoner lar objektet gi tilbakemelding til brukeren når det trigges, enten ved direkte feedback eller ved å sende data til en tjeneste eller app. Legg kortene dere har valgt i området for Reaksjoner på brettet.
