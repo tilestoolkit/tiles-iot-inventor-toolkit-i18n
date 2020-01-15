@@ -1,4 +1,4 @@
-an ideation toolkit to tackle UN's sustainable development goals
+et toolkit for utvikling av ideer for å imøtekomme FNs bærekraftmål
 
 skoler, utviklere, barn
 
