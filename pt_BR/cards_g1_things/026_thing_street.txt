@@ -1,0 +1,3 @@
+street
+
+A street that is either used by cars or as a sidewalk by people.
