@@ -1,0 +1,3 @@
+headgear
+
+A piece of headgear, for example a cap, a beanie or a helmet.

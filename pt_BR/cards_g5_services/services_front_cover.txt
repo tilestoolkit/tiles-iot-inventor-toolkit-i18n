@@ -1,0 +1,3 @@
+services
+
+Online services that exchange data with the objects, like web services, apps or remote sensors.
